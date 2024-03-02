@@ -126,10 +126,10 @@ export default function Home() {
             </span>
           </div>
           <div
-            className="group rounded-full border border-transparent m-6 px-4 py-4 text-center align-middle   bg-[#303b5a] hover:bg-gradient-to-b to-[#2e2be9] from-[#7857ff]"
+            className="group rounded-full border border-transparent m-6 px-4 py-4 text-center self-center  align-middle bg-[#303b5a] hover:bg-gradient-to-b to-[#2e2be9] from-[#7857ff]"
           >
             <button type="button" className={`text-2xl font-bold `}>
-              Continue{' '}
+              Continue  
             </button>
           </div>
         </div>
